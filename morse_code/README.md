@@ -22,7 +22,7 @@ This Python program translates text input into Morse code and outputs the Morse 
    - `time` module is imported for time-related functions.
 
 2. **Define Constants:**
-   - `BUZZER_PIN` is set to the GPIO pin number (17) to which the buzzer is connected.
+   - `BUZZER_PIN` is set to the GPIO pin number of your choice to which the buzzer is connected.
    - `BUZZER_FREQUENCY` is set to 1000 Hz, defining the frequency of the buzzer sound.
 
 3. **Define Morse Code Functions:**
