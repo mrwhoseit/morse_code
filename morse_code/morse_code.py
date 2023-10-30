@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import time
 
 # Define GPIO pin for the buzzer
-BUZZER_PIN = 17
+BUZZER_PIN = "Your Desire"
 
 # Define buzzer frequency (in Hz)
 BUZZER_FREQUENCY = 1000  # Change this value to adjust the frequency
