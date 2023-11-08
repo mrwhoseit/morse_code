@@ -58,3 +58,7 @@ This Python program translates text input into Morse code and outputs the Morse 
 
 4. **Exit the Program:**
    - To exit, press Ctrl+C
+
+![IMG_2898](https://github.com/mrwhoseit/morse_code/assets/94995288/02f19f77-023f-4f55-93ac-d8d3518c6d23)
+![IMG_2897](https://github.com/mrwhoseit/morse_code/assets/94995288/07fa8a50-32a1-42e1-8511-78d63b0a2b69)
+
